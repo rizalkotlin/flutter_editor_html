@@ -1,15 +1,6 @@
 # Flutter Editor HTML
 
 Text Editor in Flutter for Android and iOS to help free write WYSIWYG HTML code based on Summernote 0.8.18 javascript wrapper.
-
-![demo example](https://github.com/chandrabezzo/flutter_editor_html/blob/master/screenshoot/home.png) ![demo example](https://github.com/chandrabezzo/flutter_editor_html/blob/master/screenshoot/attach.png)
-
-# NOTICE
-> This package dependent to the [Official WebView Plugin](https://pub.dev/packages/webview_flutter). In this package can't add image, video, or another file using editor toolbar.
-> To handle attach image this package give you another solution using image [Image Picker](https://pub.dev/packages/image_picker) at bottom of editor.
-> This package can't use enableinteractiveSelection from TextField, to handle that this package give you another solution using copy paste at bottom of editor.
-> Thank you for all your support.
-
 ## Setup
 
 add ```flutter_editor_html: ^latest``` as deppendecy to pubspec.yaml
