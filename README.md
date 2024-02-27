@@ -87,24 +87,3 @@ Parameter | Type | Default | Description
 **showBottomToolbar** | Boolean | false | Use this option if you want to show or hide bottom toolbar
 **returnContent** | Function | null | Use this callback to return text content on `await keyEditor.currentState.getText()` function call.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/chandra-abdul-fattah"><img src="https://avatars.githubusercontent.com/u/16184998?v=4?s=100" width="100px;" alt="Chandra Abdul Fattah"/><br /><sub><b>Chandra Abdul Fattah</b></sub></a><br /><a href="#infra-chandrabezzo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/chandrabezzo/flutter_editor_html/commits?author=chandrabezzo" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://afandiyusuf.com"><img src="https://avatars.githubusercontent.com/u/4621478?v=4?s=100" width="100px;" alt="yusuf afandi"/><br /><sub><b>yusuf afandi</b></sub></a><br /><a href="https://github.com/chandrabezzo/flutter_editor_html/commits?author=afandiyusuf" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.upwork.com/freelancers/~01192eefd8a1c267f7"><img src="https://avatars.githubusercontent.com/u/231950?v=4?s=100" width="100px;" alt="Ivan Terekhin"/><br /><sub><b>Ivan Terekhin</b></sub></a><br /><a href="https://github.com/chandrabezzo/flutter_editor_html/commits?author=JEuler" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
-
